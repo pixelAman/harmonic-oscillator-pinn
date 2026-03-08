@@ -1,0 +1,40 @@
+title: harmonic-oscillator-pinn
+description: sustainability audit of harmonic-oscillator-pinn
+repository: https://github.com/pixelAman/harmonic-oscillator-pinn.git
+Computing:
+  Embodied:
+    Carbon footprint:
+      Value (in gCO2e): '0.717'
+      Source and method: used codecarbon
+    Depletion of Abiotic Resources (Minerals, Metals): {}
+    Particule Matter Emissions: {}
+    Acidification potential: {}
+    Ionising Radiation Related to Human Health: {}
+    Photochemical Ozone Formation: {}
+    Abiotic Depletion Potential (Fossil Fuels): {}
+    Freshwater Eco-Toxicity Potential: {}
+  Operational:
+    Impact values:
+      Energy consumption (in kWh): '0.0010053'
+      Water consumption (in liters): '0'
+    Methods and scope:
+      Software boundaries: {}
+      Tool stages: {}
+      Hardware boundaries:
+        Details on hardware used: 'CPU Intel(R) Pentium(R) Silver N5000 CPU @ 1.10GHz
+          (4 cores)
+
+          RAM ~3.83 GB
+
+          OS- Windows-10
+
+          Laptop'
+      Infrastructure:
+        Power Usage Effectiveness (PUE):
+          Value: '1'
+          Estimation method used: Manual
+        Water usage effectiveness:
+          Value (in L/kWh): '0'
+      Electricity carbon intensity:
+        Value (in gCO2e/kWh): '713.44'
+        Source: calculated  by formula emission/energy
